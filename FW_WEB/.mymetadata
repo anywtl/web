@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="FW_WEB"
+  id="myeclipse.1496647512630"
+  context-root="/FW_WEB"
+  j2ee-spec="5.0"
+  archive="FW_WEB.war">
+  <attributes>
+    <attribute name="webrootdir" value="webapps/ROOT" />
+  </attributes>
+</project-module>
+
